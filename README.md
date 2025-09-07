@@ -1,0 +1,1 @@
+This repository is a personal collection of resources including datasets (CSV and images), German learning materials (PDFs and infographics), reference books, research papers, resume examples, and my own narrative writings. It serves as a central hub for study, practice, and creative work.
