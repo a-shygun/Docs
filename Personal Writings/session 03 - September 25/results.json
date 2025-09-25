@@ -1,0 +1,164 @@
+[
+    {
+        "timestamp": "2025-09-25 16:10:38",
+        "accuracy": "0.9143",
+        "batch_size": 5,
+        "img_size": [224, 224],
+        "epochs": 15,
+        "num_classes": 2,
+        "augmentation": {
+            "rotation_range": 40,
+            "width_shift_range": 0.2,
+            "height_shift_range": 0.2,
+            "shear_range": 0.2,
+            "zoom_range": 0.2,
+            "horizontal_flip": true,
+            "vertical_flip": true,
+            "rescale": 0.00392156862745098
+        }
+    },
+    {
+        "timestamp": "2025-09-24 11:42:05",
+        "accuracy": "0.9021",
+        "batch_size": 5,
+        "img_size": [224, 224],
+        "epochs": 10,
+        "num_classes": 2,
+        "augmentation": {
+            "rotation_range": 20,
+            "width_shift_range": 0.1,
+            "height_shift_range": 0.1,
+            "shear_range": 0.1,
+            "zoom_range": 0.1,
+            "horizontal_flip": true,
+            "vertical_flip": false,
+            "rescale": 0.00392156862745098
+        }
+    },
+    {
+        "timestamp": "2025-09-23 19:17:48",
+        "accuracy": "0.9187",
+        "batch_size": 10,
+        "img_size": [256, 256],
+        "epochs": 15,
+        "num_classes": 2,
+        "augmentation": {
+            "rotation_range": 40,
+            "width_shift_range": 0.2,
+            "height_shift_range": 0.2,
+            "shear_range": 0.2,
+            "zoom_range": 0.2,
+            "horizontal_flip": true,
+            "vertical_flip": true,
+            "rescale": 0.00392156862745098
+        }
+    },
+    {
+        "timestamp": "2025-09-22 08:53:12",
+        "accuracy": "0.8954",
+        "batch_size": 5,
+        "img_size": [128, 128],
+        "epochs": 5,
+        "num_classes": 2,
+        "augmentation": {
+            "rotation_range": 0,
+            "width_shift_range": 0.0,
+            "height_shift_range": 0.0,
+            "shear_range": 0.0,
+            "zoom_range": 0.0,
+            "horizontal_flip": false,
+            "vertical_flip": false,
+            "rescale": 0.00392156862745098
+        }
+    },
+    {
+        "timestamp": "2025-09-21 14:36:29",
+        "accuracy": "0.9278",
+        "batch_size": 10,
+        "img_size": [224, 224],
+        "epochs": 20,
+        "num_classes": 2,
+        "augmentation": {
+            "rotation_range": 40,
+            "width_shift_range": 0.2,
+            "height_shift_range": 0.2,
+            "shear_range": 0.2,
+            "zoom_range": 0.2,
+            "horizontal_flip": true,
+            "vertical_flip": true,
+            "rescale": 0.00392156862745098
+        }
+    },
+    {
+        "timestamp": "2025-09-20 21:09:54",
+        "accuracy": "0.9102",
+        "batch_size": 5,
+        "img_size": [256, 256],
+        "epochs": 15,
+        "num_classes": 2,
+        "augmentation": {
+            "rotation_range": 20,
+            "width_shift_range": 0.1,
+            "height_shift_range": 0.1,
+            "shear_range": 0.1,
+            "zoom_range": 0.1,
+            "horizontal_flip": true,
+            "vertical_flip": false,
+            "rescale": 0.00392156862745098
+        }
+    },
+    {
+        "timestamp": "2025-09-19 13:25:47",
+        "accuracy": "0.5564",
+        "batch_size": 5,
+        "img_size": [224, 224],
+        "epochs": 15,
+        "num_classes": 5,
+        "augmentation": {
+            "rotation_range": 20,
+            "width_shift_range": 0.1,
+            "height_shift_range": 0.1,
+            "shear_range": 0.1,
+            "zoom_range": 0.1,
+            "horizontal_flip": true,
+            "vertical_flip": false,
+            "rescale": 0.00392156862745098
+        }
+    },
+    {
+        "timestamp": "2025-09-18 18:48:12",
+        "accuracy": "0.5421",
+        "batch_size": 5,
+        "img_size": [128, 128],
+        "epochs": 10,
+        "num_classes": 5,
+        "augmentation": {
+            "rotation_range": 0,
+            "width_shift_range": 0.0,
+            "height_shift_range": 0.0,
+            "shear_range": 0.0,
+            "zoom_range": 0.0,
+            "horizontal_flip": false,
+            "vertical_flip": false,
+            "rescale": 0.00392156862745098
+        }
+    },
+    {
+        "timestamp": "2025-09-17 09:17:36",
+        "accuracy": "0.5743",
+        "batch_size": 10,
+        "img_size": [256, 256],
+        "epochs": 20,
+        "num_classes": 5,
+        "augmentation": {
+            "rotation_range": 40,
+            "width_shift_range": 0.2,
+            "height_shift_range": 0.2,
+            "shear_range": 0.2,
+            "zoom_range": 0.2,
+            "horizontal_flip": true,
+            "vertical_flip": true,
+            "rescale": 0.00392156862745098
+        }
+    }
+]

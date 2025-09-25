@@ -1,0 +1,2 @@
+timestamp,accuracy,batch_size,img_size,epochs,num_classes,augmentation_rotation_range,augmentation_width_shift_range,augmentation_height_shift_range,augmentation_shear_range,augmentation_zoom_range,augmentation_horizontal_flip,augmentation_vertical_flip,augmentation_rescale
+2025-09-25 16:10:38,0.9143,5,"(224, 224)",15,2,40,0.2,0.2,0.2,0.2,True,True,0.00392156862745098
